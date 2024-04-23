@@ -15,5 +15,5 @@ spec:
         app: pema-deploy
     spec:
       containers:
-      - image: peewang123/takin:latest
+      - image: peewang123/takin:15
         name: pet
